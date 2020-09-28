@@ -14,6 +14,7 @@ class ResumeExperience extends React.Component {
                     <DeveloperWorkExperience professionalExperience={this.props.professionalExperience} />
                 </div>
                 <div className="clearfix"></div><br/>
+                <br/><br/><br/><br/>
                 <DeveloperAchievements achievementHeading='Education' achievements={this.props.developerEducation} />
                 <DeveloperAchievements achievementHeading='Awards & Achievements' achievements={this.props.developerAchievements} />
             </div>

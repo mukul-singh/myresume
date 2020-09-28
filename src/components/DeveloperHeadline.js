@@ -9,7 +9,7 @@ class ResumeSummary extends React.Component {
                     <img src={this.props.userImage} className="img-responsive img-thumbnail img-circle" />
                 </div>
                 <h2 className="text-center">{this.props.developerName}</h2>
-                <h5 className="text-center mar-b0">Web, Mobile, Frontend & Backend</h5>
+                <h5 className="text-center mar-b0">Software Engineer (Full Stack)</h5>
                 <br/>
             </div>
         );

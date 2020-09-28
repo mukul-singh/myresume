@@ -139,6 +139,7 @@ h2, h5 {
     border-radius: 10px;
 }
 .resume {
+    padding-top: 0 !important;
     background: #fff;
     border-left: 1px solid rgba(0, 0, 0, 0.15);
     border-right: 1px solid rgba(0, 0, 0, 0.15);

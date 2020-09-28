@@ -16,6 +16,11 @@ class ResumeSummary extends React.Component {
                 <DeveloperActivities developerActivities = {this.props.developerActivities} />
                 <DeveloperLanguages developerLanguages = {this.props.developerLanguages} />
                 <DeveloperExtraDetails />
+                <br/><br/><br/><br/><br/><br/><br/><br/>
+                <br/><br/><br/><br/><br/><br/><br/><br/>
+                <br/><br/><br/><br/><br/><br/><br/><br/>
+                <br/><br/><br/><br/><br/><br/><br/><br/>
+                <br/><br/><br/><br/>
             </div>
         );
     };
